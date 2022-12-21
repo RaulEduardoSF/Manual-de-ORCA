@@ -26,7 +26,7 @@ The `NumFreq` instruction, declare the employing of numerical methods to obtain 
 ! PBE def2-SVP
 ! TightSCF
 ! NumFreq
-* xyz 0 1 benzenoOPT.xyz
+* xyzfile 0 1 benzenoOPT.xyz
 ```
 
 ![benzIR_NIST](https://user-images.githubusercontent.com/74220104/208806107-2ef3d0e2-8889-44f5-b658-89dc080c3444.png)
@@ -54,7 +54,7 @@ Here is important include the following instructions: `! LargePrint Printbasis P
 ! PBE def2-SVP
 ! Opt
 ! LargePrint Printbasis PrintMOs
-* xyz 0 1 benzenoOPT.xyz
+* xyzfile 0 1 benzenoOPT.xyz
 ```
 
 ![BenzMOs](https://user-images.githubusercontent.com/74220104/208804185-0ae82b7e-421b-4152-8c49-4986c81ef3e0.png)
