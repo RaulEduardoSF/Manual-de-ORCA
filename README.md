@@ -59,3 +59,5 @@ Here is important include the following instructions: `! LargePrint Printbasis P
 
 ![BenzMOs](https://user-images.githubusercontent.com/74220104/208804185-0ae82b7e-421b-4152-8c49-4986c81ef3e0.png)
 
+All instructions are more detailed in `CalculosOrca.pdf`.
+
