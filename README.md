@@ -1,8 +1,6 @@
 # ORCA Manual
 Introduction to ORCA software that compund some quantum-chemical computational methods cabable of do a geometrical optimization caluculus, Infrared and Ramman spectroscopies, moreover of compute the molecular orbitals and then we be able visulizate trought Avogadro
 
-Introducción al software ORCA que integra metdos computacionales de quimica-cuantica, capaz de realizar calculos de optimización geometrica, calculos de espectroscopía infraroja y de espectroscopía Ramman, ademas de calcular los orbitales moleculares y poder visualizarmos mediante Avogadro.
-
 We use `PBE` functional for approximate the exchange-correlation effect, constrained to Restricted Kohn-Sham equation for closed shell systems and a valence double-zeta basis set with “new” polarization functions `def2-SVP`.
 
 ### Geometrical Optimization
@@ -59,5 +57,5 @@ Here is important include the following instructions: `! LargePrint Printbasis P
 
 ![BenzMOs](https://user-images.githubusercontent.com/74220104/208804185-0ae82b7e-421b-4152-8c49-4986c81ef3e0.png)
 
-All instructions are more detailed in `CalculosOrca.pdf`.
+All instructions are more detailed in `CalculosOrca.pdf`, we ilustrated examples such as C6H6 and C60.
 
